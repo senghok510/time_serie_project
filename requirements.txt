@@ -1,0 +1,11 @@
+arch
+copulas
+jupyter
+matplotlib
+numpy
+pandas
+pandas-datareader
+scikit-learn
+scipy
+statsmodels
+yfinance
