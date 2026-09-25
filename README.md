@@ -1,6 +1,6 @@
 # Time Series Gold
 
-This repository contains two exploratory Jupyter notebooks focused on financial time-series modeling:
+This repository contains two exploratory Jupyter notebooks focused on financial time-series modeling that i have done during my third year at Ecole Polytechnique:
 
 - `main.ipynb`: gold futures (`GC=F`) return and volatility analysis using ARIMA and GARCH.
 - `couple.ipynb`: dependence modeling and pairs-trading research on `VIX` and `RVX` using fitted marginals and copulas.
